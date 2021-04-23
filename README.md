@@ -1,2 +1,2 @@
-# Refractor-Homework
+# Refactor-Homework
 Improving a sites code
